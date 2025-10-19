@@ -1,4 +1,5 @@
-study C 13 days
+study C 14 days
+
 
 
 
