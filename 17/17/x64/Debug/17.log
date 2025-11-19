@@ -1,0 +1,4 @@
+﻿  infinity.c
+C:\Users\ASUS\Documents\repos\17\infinity.c(23,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Documents\repos\17\infinity.c(15,1): warning C4723: 潜在的被 0 除
+  17.vcxproj -> C:\Users\ASUS\Documents\repos\17\x64\Debug\17.exe
