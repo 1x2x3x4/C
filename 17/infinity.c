@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <float.h>
+#include <stdbool.h>
+#define PI 3.14
 
 int main(void) {
 	//正无穷大
@@ -77,6 +79,25 @@ int main(void) {
 	printf("Define precision max_float: %d\n", FLT_DIG);
 	printf("Define prescsion max_double: %d\n", DBL_DIG);
 
+	printf("\n");
+	printf("\n");
+	printf("\n");
 
+	//转义序列练习
+	printf("这是一段文字\n\t这是一段带有缩进的文字\n\t\t这是带有很大缩进的文字\n");
 
+	bool is_game_over = false;
+	bool is_game_won = true;
+
+	printf("\n");
+	printf("\n");
+	printf("\n");
+
+	//const 常量
+	//不能同一函数作用域中重复定义
+	const int MAX_USERS = 100;
+	printf("MAX_USERS: %d\n", MAX_USERS);
+	printf("PI: %lf\n", PI);
+
+	return 0;
 }
