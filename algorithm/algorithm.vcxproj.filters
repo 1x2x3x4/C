@@ -18,5 +18,11 @@
     <ClCompile Include="最长公共子序列.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Kruskal.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0-1背包问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

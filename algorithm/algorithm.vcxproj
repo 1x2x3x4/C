@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="0-1背包问题.c" />
+    <ClCompile Include="Kruskal.c" />
     <ClCompile Include="最长公共子序列.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -1,4 +1,2 @@
-﻿  最长公共子序列.c
-C:\Users\ASUS\Documents\repos\algorithm\最长公共子序列.c(7,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\ASUS\Documents\repos\algorithm\最长公共子序列.c(8,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+﻿  0-1背包问题.c
   algorithm.vcxproj -> C:\Users\ASUS\Documents\repos\algorithm\x64\Debug\algorithm.exe
