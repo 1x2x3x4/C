@@ -1,0 +1,5 @@
+﻿  0.c
+C:\Users\ASUS\Documents\repos\25\0.c(23,15): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\ASUS\Documents\repos\25\0.c(26,15): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\ASUS\Documents\repos\25\0.c(31,14): warning C4305: “=”: 从“double”到“float”截断
+  25.vcxproj -> C:\Users\ASUS\Documents\repos\25\x64\Debug\25.exe
